@@ -1,6 +1,6 @@
 Hello Open Source community, I'm Anjali Yadav, a 2nd year Computer Science undergrad student.
 - 👀 I’m interested in web development & algorithmic developments....
-- 🌱 I’m currently learning fulk stack web development.
+- 🌱 I’m currently learning full stack web development.
 - Looking forward to making contributions to projects.
 - 
 
