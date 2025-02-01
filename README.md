@@ -1,8 +1,8 @@
-Hello Open Source community, I'm Anjali Yadav, a 2nd year Computer Science undergrad student.
+Hello Open Source community, I'm Anjali Yadav, a 3rd year Computer Science undergrad student.
 - 👀 I’m interested in web development & algorithmic developments....
 - 🌱 I’m currently learning full stack web development.
 - Looking forward to making contributions to projects.
-- Wants to explore Web3 Development & AI learning.
+- Wants to explore Machine Learning & AI.
 
 <!---
 anjaliy11/anjaliy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
