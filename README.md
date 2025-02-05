@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there! 👋  <br><br>I'm a  3rd year B.tech student passionate about building intelligent systems. I've worked on **ML models for classification, regression, clustering, and NLP**, applying techniques like **feature engineering, hyperparameter tuning, and model optimization** & Backend development. Currently, I'm diving deeper into **Neural Networks, CNNs, RNNs, and Transformers** to expand my expertise in Deep Learning.  <br><br>In the future, I aim to explore **AI, Generative AI, and Self-Improving AI (SAI)** to develop cutting-edge solutions. Always excited to collaborate on innovative projects—let’s build something impactful! 🚀  <br>
+Hi there! 👋<br><br>I'm a 3rd year B.tech student passionate about building intelligent systems. I've worked on ML models for classification, regression, clustering, and NLP, applying techniques like feature engineering, hyperparameter tuning, and model optimization & Backend development. Currently, I'm diving deeper into Neural Networks, CNNs, RNNs, and Transformers to expand my expertise in Deep Learning.<br><br>In the future, I aim to explore  Generative AI to develop cutting-edge solutions. Always excited to collaborate on innovative projects—let’s build something impactful! 🚀
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliy11&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anjaliy11&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anjaliy11&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anjaliy11&limit=5&theme=radical&combine_all_yearly_contributions=true)
