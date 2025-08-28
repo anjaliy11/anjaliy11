@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm a 3rd year B.tech student passionate about building intelligent systems. I've worked on ML models for classification, regression, clustering, and NLP, applying techniques like feature engineering, hyperparameter tuning, and model optimization & Backend development. Currently, I'm diving deeper into Neural Networks, CNNs, RNNs, and Transformers to expand my expertise in Deep Learning.<br><br>In the future, I aim to explore  Generative AI to develop cutting-edge solutions. Always excited to collaborate on innovative projects—let’s build something impactful! 🚀
+Hi there! 👋<br><br>I'm a 4th year B.tech student passionate about building intelligent systems. I've worked on ML models for classification, regression, clustering, and NLP, applying techniques like feature engineering, hyperparameter tuning, and model optimization with MLOps. Currently, I'm diving deeper into Neural Networks, CNNs, RNNs, and Transformers to expand my expertise in Generative AI, Agentic AI & Computer Vision.<br><br> Always excited to collaborate on innovative projects—let’s build something impactful! 🚀
 <div align="center"> 
   
 <!--   <h2>🐍 Contributions 🐍</h2>
