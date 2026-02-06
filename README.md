@@ -121,9 +121,9 @@ if __name__ == "__main__":
 ---
 [![](https://visitcount.itsvg.in/api?id=anjaliy11&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 📐 Activity Graph
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=146876465">
     <picture>
       <source 
@@ -134,7 +134,7 @@ if __name__ == "__main__":
         src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=146876465&image_size=auto&color_scheme=light">
     </picture>
   </a>
-</p>
+</p> -->
 
 
 
