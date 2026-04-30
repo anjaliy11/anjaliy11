@@ -23,18 +23,12 @@ class MLEngineer:
 
 me = MLEngineer(
     name="Anjali Yadav",
-    role="Machine Learning Engineer",  # own it.
+    role="Machine Learning Engineer", 
     focus_areas=[
         "End-to-End ML Pipelines",
         "Deep Learning & Model Optimization",
         "MLOps & Production Deployment",
         "Statistical Modeling",
-    ],
-    engineering_stack=[
-        "Python · PyTorch · TensorFlow",
-        "scikit-learn · MLflow · FastAPI",
-        "Docker · AWS · GCP",
-        "SQL · MongoDB",
     ],
     current_work="Designing robust ML systems with measurable real-world impact.",
     research_interests=[
