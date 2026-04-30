@@ -8,7 +8,6 @@ class MLEngineer:
     name: str
     role: str
     focus_areas: List[str]
-    engineering_stack: List[str]
     current_work: str
     research_interests: List[str]
     philosophy: str
