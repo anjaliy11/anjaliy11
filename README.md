@@ -1,71 +1,22 @@
+<h1 align="center">Hi, I'm Anjali 👾</h1>
+
 ```python
-from dataclasses import dataclass
-from typing import List
-
-
-@dataclass
 class MLEngineer:
-    name: str
-    role: str
-    focus_areas: List[str]
-    current_work: str
-    research_interests: List[str]
-    philosophy: str
+    def __init__(self):
+        self.name = "Anjali Yadav"
+        self.role = "Machine Learning Engineer"
+        self.philosophy = "Strong baselines beat clever tricks. If it doesn't evaluate well, it doesn't ship."
 
     def introduction(self):
-        print(
-            "Hello 👋  I'm Anjali.\n"
-            "I build machine learning systems that go beyond notebooks —\n"
-            "end-to-end pipelines, deployed models, and measurable outcomes.\n"
-        )
+        print(f"👾 {self.name} — {self.role}")
+        print("I build ML systems that go beyond notebooks: end-to-end pipelines, deployed models, measurable outcomes.")
 
-
-me = MLEngineer(
-    name="Anjali Yadav",
-    role="Machine Learning Engineer", 
-    focus_areas=[
-        "End-to-End ML Pipelines",
-        "Deep Learning & Model Optimization",
-        "MLOps & Production Deployment",
-        "Statistical Modeling",
-    ],
-    current_work="Designing robust ML systems with measurable real-world impact.",
-    research_interests=[
-        "Transformers & Attention Mechanisms",
-        "Representation Learning",
-        "Generative & Agentic AI",
-        "Efficient Inference & Model Compression",
-    ],
-    philosophy=(
-        "Strong baselines beat clever tricks. "
-        "If it doesn't evaluate well, it doesn't ship."
-    ),
-)
-
+me = MLEngineer()
 me.introduction()
 ```
 
----
-
-## 🧩 LeetCode
-
 <p align="center">
-  <a href="https://leetcode.com/anjali11y/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" width="100" />
-  </a>
-  <a href="https://leetcode.com/anjali11y/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" width="100" />
-  </a>
-  <a href="https://leetcode.com/anjali11y/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" />
-  </a>
-  <a href="https://leetcode.com/anjali11y/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anjali11y?theme=dark&font=Nunito&ext=heatmap" />
+🔍 Interested in: AI/ML · Agentic AI · MLOps · Data Science
 </p>
 
 ---
@@ -91,6 +42,39 @@ me.introduction()
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**CV & Applied ML**
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat-square&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/anjali11y/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/anjali11y/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/anjali11y/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/anjali11y/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anjali11y?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
 ---
 
